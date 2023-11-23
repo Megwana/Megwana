@@ -20,17 +20,17 @@ Created a movie review club website using HTML and CSS.
 ### ❓ What Came First? - Quiz Game
 
 Developed a JavaScript quiz game called "WhatCameFirst?"
-[Link to Project 2 Repository](https://github.com/Megwana/whatcamefirst)
+- [Link to Project 2 Repository](https://github.com/Megwana/whatcamefirst)
 
 ### 🚢 Battleship Game - Command Line
 
 Implemented a Battleship game in Python, playable in the command line.
-[Link to Project 3 Repository](https://github.com/Megwana/battleship01)
+- [Link to Project 3 Repository](https://github.com/Megwana/battleship01)
 
 ### 🚗 OpenRoad - Full Stack Project
 
 Designed and built OpenRoad, a website featuring travel blogs on road trips around North America.
-[Link to Project 4 Repository](https://github.com/Megwana/open_road)
+- [Link to Project 4 Repository](https://github.com/Megwana/open_road)
 
 ### 👟 HotFeet - Specialization Project
 
