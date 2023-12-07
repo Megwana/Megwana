@@ -34,7 +34,7 @@ Designed and built OpenRoad, a website featuring travel blogs on road trips arou
 
 ### 👟 HotFeet - Specialization Project
 
-Specialized in React by creating a website for running shoe reviews.
+For my fifth project I chose to specialise in React by creating a website for running shoe reviews.
 - [Link to Project 5 Repository](https://github.com/Megwana/backend-hf)
 
 ## 📚 Education:
@@ -54,6 +54,6 @@ When I'm not coding, you can find me indulging in my diverse set of hobbies. I f
 
 ## 📫 Contact:
 
-Interested in exploring collaboration or have a project idea? Reach out to me at [megantech@hotmail.com](mailto:megantech@hotmail.com).
+If you are interested in exploring collaboration or have a project idea? Reach out to me at [megantech@hotmail.com](mailto:megantech@hotmail.com).
 
 🚀 Excited to contribute to the ever-evolving tech landscape and make a positive impact. Let's innovate together!
