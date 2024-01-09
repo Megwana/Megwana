@@ -39,14 +39,13 @@ For my fifth project I chose to specialise in React by creating a website for ru
 
 ## 📚 Education:
 
+### Code Institute - Full-Stack Software Development
+
+Graduated 31/12/2023 with a Diploma in Full-Stack Software Development (Advanced Frontend)
+
 ### University of Sussex - Politics and International Relations
 
 Achieved a 2:1 degree in Politics and International Relations; enhancing my analytical and critical thinking skills.
-
-### Code Institute - Full-Stack Software Development
-
-Expected Diploma: [2023]
-Currently pursuing a diploma in Full-Stack Software Development.
 
 ## 🌈 Passions Beyond Code :
 
