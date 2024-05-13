@@ -15,37 +15,27 @@ I'm Megan, a passionate and detail-oriented junior software engineer student wit
 ### 🎬 BeamMeUp - Movie Review Club
 
 Created a movie review club website using HTML and CSS.
-[Link to Project 1 Repository](https://github.com/Megwana/beammeup)
+[Link to Repository](https://github.com/Megwana/beammeup)
 
 ### ❓ What Came First? - Quiz Game
 
 Developed a JavaScript quiz game called "WhatCameFirst?"
-- [Link to Project 2 Repository](https://github.com/Megwana/whatcamefirst)
+- [Link to Repository](https://github.com/Megwana/whatcamefirst)
 
 ### 🚢 Battleship Game - Command Line
 
 Implemented a Battleship game in Python, playable in the command line.
-- [Link to Project 3 Repository](https://github.com/Megwana/battleship01)
+- [Link to Repository](https://github.com/Megwana/battleship01)
 
 ### 🚗 OpenRoad - Full Stack Project
 
 Designed and built OpenRoad, a website featuring travel blogs on road trips around North America.
-- [Link to Project 4 Repository](https://github.com/Megwana/open_road)
+- [Link to Repository](https://github.com/Megwana/open_road)
 
 ### 👟 HotFeet - Specialization Project
 
-For my fifth project I chose to specialise in React by creating a website for running shoe reviews.
-- [Link to Project 5 Repository](https://github.com/Megwana/backend-hf)
-
-## 📚 Education:
-
-### Code Institute - Full-Stack Software Development
-
-Graduated 31/12/2023 with a Diploma in Full-Stack Software Development (Advanced Frontend)
-
-### University of Sussex - Politics and International Relations
-
-Achieved a 2:1 degree in Politics and International Relations; enhancing my analytical and critical thinking skills.
+This is a social media website for running shoe lovers.
+- [Link to Repository](https://github.com/Megwana/backend-hf)
 
 ## 🌈 Passions Beyond Code :
 
