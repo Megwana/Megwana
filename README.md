@@ -1,6 +1,6 @@
 # 🚀 Welcome to my GitHub!
 
-I'm Megan, a passionate and detail-oriented junior software engineer student with a strong foundation in HTML, CSS, Javascript and Python. My venture into the coding realm sparked from a genuine fascination with technology, igniting a perpetual drive to explore and adapt in this dynamic field. I've been on an exciting journey of continuous learning, ensuring I'm well-versed in the latest innovations.
+I'm Megan, a passionate and detail-oriented software engineer student with a strong foundation in HTML, CSS, Javascript and Python. My venture into the coding realm sparked from a genuine fascination with technology, igniting a perpetual drive to explore and adapt in this dynamic field. I've been on an exciting journey of continuous learning, ensuring I'm well-versed in the latest innovations.
 
 ## 🛠️ Skills:
 
