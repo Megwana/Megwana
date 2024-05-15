@@ -5,7 +5,7 @@ I'm Megan, a passionate and detail-oriented software engineer student with a str
 ## 🛠️ Skills:
 
 - Proficient in HTML, CSS, JavaScript, and Python.
-- Experienced in React for building dynamic user interfaces.
+- Learning React for building dynamic user interfaces.
 - Utilized Django Rest Framework for creating robust APIs.
 - Familiar with database management using SQLite and PostgreSQL.
 - Strong problem-solving skills and a knack for turning challenges into opportunities.
