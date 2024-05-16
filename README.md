@@ -2,7 +2,9 @@
 
 I'm Megan, a passionate and detail-oriented software engineer student. I love turning challenges into opportunities✨
 
-## 🍑 Learning: Currently Python and SQL
+## 🍑 Learning: 
+
+- Currently Python and SQL
   
 ## 🌐 View some of my Projects:
 
