@@ -8,8 +8,8 @@
   
 - 🌐 I built:
 
-  - [👟 HotFeet - Specialization Project](https://github.com/Megwana/backend-hf)
-  - [🚗 OpenRoad - Full Stack Project](https://github.com/Megwana/open_road)
+  - [👟 HotFeet](https://github.com/Megwana/backend-hf)
+  - [🚗 OpenRoad](https://github.com/Megwana/open_road)
   - [❓ What Came First? - Quiz Game](https://github.com/Megwana/whatcamefirst)
   - [🎬BeamMeUp - Movie Review Club](https://github.com/Megwana/beammeup)
   - [🚢 Battleship Game - Command Line](https://github.com/Megwana/battleship01)
