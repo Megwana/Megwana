@@ -2,22 +2,22 @@
 
 **I'm Megan, a passionate and detail-oriented software engineer student. I love turning challenges into opportunities✨**
 
-🍑 Learning: 
+- 🍑 Learning: 
 
-- Currently Python and SQL
+  - Currently Python and SQL
   
-🌐 I built:
+- 🌐 I built:
 
-- [👟 HotFeet - Specialization Project](https://github.com/Megwana/backend-hf)
-- [🚗 OpenRoad - Full Stack Project](https://github.com/Megwana/open_road)
-- [❓ What Came First? - Quiz Game](https://github.com/Megwana/whatcamefirst)
-- [🎬BeamMeUp - Movie Review Club](https://github.com/Megwana/beammeup)
-- [🚢 Battleship Game - Command Line](https://github.com/Megwana/battleship01)
+  - [👟 HotFeet - Specialization Project](https://github.com/Megwana/backend-hf)
+  - [🚗 OpenRoad - Full Stack Project](https://github.com/Megwana/open_road)
+  - [❓ What Came First? - Quiz Game](https://github.com/Megwana/whatcamefirst)
+  - [🎬BeamMeUp - Movie Review Club](https://github.com/Megwana/beammeup)
+  - [🚢 Battleship Game - Command Line](https://github.com/Megwana/battleship01)
 
-🥑 Passions Beyond Code :
+- 🥑 Passions Beyond Code :
 
-Guitar, Sports, Hiking and travel 🎸🎾🥾🌎
+  - Guitar, Sports, Hiking and travel 🎸🎾🥾🌎
 
-📫 Contact:
+- 📫 Contact:
 
-If you are interested in exploring collaboration or have a project idea? Reach out to me at [megantech@hotmail.com](mailto:megantech@hotmail.com).
+  - If you are interested in exploring collaboration or have a project idea? Reach out to me at [megantech@hotmail.com](mailto:megantech@hotmail.com).
