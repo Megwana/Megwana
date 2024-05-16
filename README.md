@@ -6,7 +6,7 @@
 
 - Currently Python and SQL
   
-## 🌐 View some of my Projects:
+## 🌐 I built:
 
 - [👟 HotFeet - Specialization Project](https://github.com/Megwana/backend-hf)
 - [🚗 OpenRoad - Full Stack Project](https://github.com/Megwana/open_road)
@@ -14,9 +14,9 @@
 - [🎬BeamMeUp - Movie Review Club](https://github.com/Megwana/beammeup)
 - [🚢 Battleship Game - Command Line](https://github.com/Megwana/battleship01)
 
-## 🌈 Passions Beyond Code :
+## 🥑 Passions Beyond Code :
 
-Guitar, Sports🎾, Hiking(ideally with paw pals🐕🐾) and travel🌎
+Guitar, Sports, Hiking and travel 🎸🎾🥾🌎
 
 ## 📫 Contact:
 
