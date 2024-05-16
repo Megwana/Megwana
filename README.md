@@ -1,16 +1,10 @@
 # 🚀 Welcome to my GitHub!
 
-I'm Megan, a passionate and detail-oriented software engineer student with a strong foundation in HTML, CSS, Javascript and Python. My venture into the coding realm sparked from a genuine fascination with technology, igniting a perpetual drive to explore and adapt in this dynamic field. I've been on an exciting journey of continuous learning, ensuring I'm well-versed in the latest innovations.
+I'm Megan, a passionate and detail-oriented software engineer student. I love turning challenges into opportunities✨
 
-## 🛠️ Skills:
-
-- Proficient in HTML, CSS, JavaScript, and Python.
-- Learning React for building dynamic user interfaces.
-- Utilized Django Rest Framework for creating robust APIs.
-- Familiar with database management using SQLite and PostgreSQL.
-- Strong problem-solving skills and a knack for turning challenges into opportunities.
+## 🍑 Learning: Currently Python and SQL
   
-## 🌐 Projects:
+## 🌐 View some of my Projects:
 
 ### 🎬 BeamMeUp - Movie Review Club
 
@@ -39,10 +33,8 @@ This is a social media website for running shoe lovers.
 
 ## 🌈 Passions Beyond Code :
 
-When I'm not coding, you can find me indulging in my diverse set of hobbies. I find solace and joy in playing tunes on my guitar. An avid sports enthusiast, I have a special penchant for racket sports, where the thrill of competition meets the finesse of technique. Additionally, I relish the great outdoors—whether it's hiking through scenic landscapes or hitting the trails for a refreshing run. Beyond the realms of code, these pursuits not only define my interests but also contribute to what I consider to be a well-rounded and vibrant lifestyle. While coding invites me into the intricate world of algorithms and creativity indoors, many of my hobbies invite me outdoors, providing a harmonious balance.
+Guitar, Sports🎾, Hiking(ideally with paw pals🐕🐾) and travel🌎
 
 ## 📫 Contact:
 
 If you are interested in exploring collaboration or have a project idea? Reach out to me at [megantech@hotmail.com](mailto:megantech@hotmail.com).
-
-🚀 Excited to contribute to the ever-evolving tech landscape and make a positive impact. Let's innovate together!
