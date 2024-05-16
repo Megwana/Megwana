@@ -1,4 +1,4 @@
-## 🚀 Welcome to my GitHub!
+### 🚀 Welcome to my GitHub!
 
 **I'm Megan, a passionate and detail-oriented software engineer student. I love turning challenges into opportunities✨**
 
