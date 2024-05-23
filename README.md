@@ -20,4 +20,4 @@
 
 - 📫 Contact:
 
-  - If you are interested in exploring collaboration or have a project idea? Reach out to me at [megantech@hotmail.com](mailto:megantech@hotmail.com).
+  - If you are interested in exploring collaboration or have a project idea? Reach out to me on GitHub!👾
