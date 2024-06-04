@@ -20,4 +20,4 @@
 
 - 📫 Contact:
 
-  - If you are interested in exploring collaboration or have a project idea? Reach out to me on GitHub!👾
+  - If you are interested in exploring collaboration or have a project idea? Reach out to me on GitHub!🍄
