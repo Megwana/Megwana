@@ -1,6 +1,6 @@
 ### 🚀 Welcome to my GitHub!
 
-**I'm Megan, a passionate and detail-oriented CFG Software/Data Engineer Student. I love turning challenges into opportunities✨**
+**I'm Megan, a passionate and detail-oriented Code First Girls Software/Data Engineer Student. I love turning challenges into opportunities✨**
 
 - 🍑 Learning: 
 
