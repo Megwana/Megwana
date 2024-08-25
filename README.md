@@ -13,6 +13,10 @@
   - [❓ What Came First? - Quiz Game](https://github.com/Megwana/whatcamefirst)
   - [🎬BeamMeUp - Movie Review Club](https://github.com/Megwana/beammeup)
   - [🚢 Battleship Game - Command Line](https://github.com/Megwana/battleship01)
+ 
+## GitHub Stats
+
+![Megwana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Megwana&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 - 🌻 Passions Beyond Tech:
 
