@@ -20,7 +20,7 @@
 
 ### 🌻 Passions Beyond Tech:
 
-  - Guitar, Sports, Hiking and travel 🎸🎾🥾🌎
+  - Guitar, Sports, and Travel 🎸🎾🌎
 
 ### 📫 Contact:
 
